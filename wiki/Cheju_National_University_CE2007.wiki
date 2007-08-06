@@ -37,7 +37,6 @@
  # 개발 방법론 I- 버그 추적 기술, 패치 제출, 스타일의 관례 (10월 5일)
   * 초청 강연
  # 개발 방법론 II - 빌드, 배포, 버전, 문서화, 기여자 참여 과정, 번역 (10월 12일) 
-
  # *중간고사* : 실습 시험- 버그 추적, 패치 제출, follow-up (10월 19일)
 
  # 국내 참여 사례 I - 해외 프로젝트 진행 방식 (10월 26일)
@@ -58,3 +57,15 @@
  # Daum에서 오픈 소스 활용 (12월 7일)
   * 기업에서 오픈 소스 활용 이유
   * LAMJI 플랫폼 및 외부 지원
+ # *기말고사*
+
+== 읽을 책/문서 ==
+ # Diomidis Spinellis (류광 역), [http://www.aladdin.co.kr/shop/book/wletslook.aspx?ISBN=8956741867 Code Reading - 오픈 소스 관점에서 본 코드 읽기]
+ # Martin Fink (조광제 역), 리눅스와 오픈소스의 비지니스와 경제학
+ # Tim O'Reilly, [http://tim.oreilly.com/articles/paradigmshift_0504.html Open Source Paradigm Shift]
+ # Eric S. Raymond, [http://wiki.kldp.org/wiki.php/DocbookSgml/Cathedral-Bazaar-TRANS 성당과 시장]
+
+== 관련 교과목 ==
+ # http://www.kegel.com/academy/opensource.html
+ # http://www.cs.pdx.edu/user/coursedetails/110
+ # http://www2.sims.berkeley.edu/academics/courses/is296a-2/f05/ 
