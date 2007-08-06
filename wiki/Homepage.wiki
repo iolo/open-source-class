@@ -1,0 +1,19 @@
+==Purpose== 
+Understanding the basic pricipal of free/open source softwares and skilling up to join open source community and learn to process software developement such as bug reporting, patching code, communication with people with developing tools.
+
+== Introduction ==
+=== Instructors ===
+ * Seokchan Yun (Daum Communications Corp, M.S)
+ * Invited Experts 
+
+=== Class Information ===
+ * Homepage:  http://code.google.com/p/open-source-class
+ * Date/Room: Every Friday
+ * Office hour: Every Friday 
+ * Email: oss2007cnu@gmail.com (Homework, Q&A, Project)
+
+== References ==
+ # http://www.kegel.com/academy/opensource.html
+ # http://www.cs.pdx.edu/user/coursedetails/110
+ # http://www2.sims.berkeley.edu/academics/courses/is296a-2/f05/
+
