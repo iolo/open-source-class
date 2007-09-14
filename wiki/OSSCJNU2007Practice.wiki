@@ -3,5 +3,8 @@
 
 = 실습 도구 =
  * Zterm: http://www.brainz.co.kr/down/zterm/Zterm.exe
-
+ * Server: www.creation.net
+ * Port: 22
+ * ID: oss2007cjnu
+ 
  
