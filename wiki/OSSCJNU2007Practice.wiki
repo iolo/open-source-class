@@ -1,0 +1,7 @@
+#summary 실습 관련 자료
+#labels Class-CJNUce2007
+
+= 실습 도구 =
+ * Zterm: http://www.brainz.co.kr/down/zterm/Zterm.exe
+
+ 
