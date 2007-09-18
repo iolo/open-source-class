@@ -10,10 +10,52 @@ Understanding the basic pricipal of free/open source softwares and skilling up t
  * Homepage:  http://code.google.com/p/open-source-class
  * Date/Room: Every Friday
  * Office hour: Every Friday 
- * Email: oss2007cnu@gmail.com (Homework, Q&A, Project)
+ * Email: oss2007cjnu@gmail.com (Homework, Q&A, Project)
+
+== Syllabus  ==
+ # Introduction of Free and Open Source
+  * Class Introduction
+  * Watching movie 'Revolution OS'
+ # Open Source Development Process
+  * Definition, History and Best projects
+  * Development process and tools
+ # Tools I: Source Control
+  * Introduction of Source Control
+  * Lab: Subversion with Google Code
+ # Tools: II: Bug Tracking
+  * Issue making, tracking and patch  
+  * Lab: Bugzilla, Trac, GNATS, Mail reporting
+ # Development Process I - Build, Release, Documentation, Translation
+  * Source document(README, ChangeLog etc.), Wiki, i18n/L10n tool (gettext)
+  * Labs: Project Groups
+ # Development Process II - Practice for Bug tracking, patch and code convention
+  * Heyshik Jang (Python/FreeBSD committer, KAIST)
+ # *Special* JCO Open Source Conference in Seoul (Oct. 13th)
+ # *Mid-term Exam* : Bug Tracking follow-up
+ #  Best Projects I  (10월 26일)
+  * Mozilla Project
+ # Project Lab I
+  * Presentation of each project plan 
+  * Simple proto-type with some functions within 4 weeks 
+  * OSS plugin
+ # Best Project II
+  * Jeungkyu Kim (OpenOffice Korea)
+  * Seoungjae Cho (KDE Korea)
+ # Project Lab II
+  * Presentation of each bug tracking and patch
+  * 1st release of source
+ # Social effects of Open Source
+  * Creative Commons (Jongsoo Yun)
+  * Open Source License (Soonsun Kwon)
+ # Project Lab III
+  * Presentation of 2nd. release
+ # Open Source in Enterprise
+  * Daum's activities 
+ # *Final-term Exam*
 
 == References ==
  # http://www.kegel.com/academy/opensource.html
  # http://www.cs.pdx.edu/user/coursedetails/110
  # http://www2.sims.berkeley.edu/academics/courses/is296a-2/f05/
 
+ 
