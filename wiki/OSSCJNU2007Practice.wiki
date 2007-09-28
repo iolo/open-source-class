@@ -8,7 +8,7 @@
  * ID: oss2007cjnu
  
 = 과제 =
-{{
+{{{
    [URL 링크명]
-}}
+}}}
  * [https://translations.launchpad.net/translations/+products-with-translations 주요 URL] 
