@@ -7,4 +7,5 @@
  * Port: 22
  * ID: oss2007cjnu
  
- 
+= 과제 =
+ * https://translations.launchpad.net/translations/+products-with-translations 
