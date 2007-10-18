@@ -57,5 +57,6 @@ Understanding the basic pricipal of free/open source softwares and skilling up t
  # http://www.kegel.com/academy/opensource.html
  # http://www.cs.pdx.edu/user/coursedetails/110
  # http://www2.sims.berkeley.edu/academics/courses/is296a-2/f05/
-
+ # http://wiki.cs.rpi.edu/trac/rcos/wiki/
+ # http://www.cs.umd.edu/class/fall2007/cmsc433/projects/os/index.html
  
