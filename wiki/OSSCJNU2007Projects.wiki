@@ -27,7 +27,7 @@
 == #2 프로젝트명 ==
  * 구성원: 오아름, 오영석, 조재신, 황현석
  * 프로그램 소개: Smarteasy Calendar (구글 캘린더 연동 캘린더 애플리케이션)
- * 프로젝트 홈페이지: http://http://code.google.com/p/smarteasy-calendar
+ * 프로젝트 홈페이지: http://code.google.com/p/smarteasy-calendar
 
 == #3 프로젝트명 ==
  * 구성원: 김소현, 여경철, 이영수, 부준필, 이창영
