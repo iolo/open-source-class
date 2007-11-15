@@ -27,10 +27,10 @@
 == #2 프로젝트명 ==
  * 구성원: 오아름, 오영석, 조재신, 황현석
  * 프로그램 소개: Smarteasy Calendar (구글 캘린더 연동 캘린더 애플리케이션)
- * 프로젝트 홈페이지: http://smarteasy-calendar.googlecode.com
+ * 프로젝트 홈페이지: http://http://code.google.com/p/smarteasy-calendar
 
 == #3 프로젝트명 ==
- * 구성원: 김소현, 여경철, 이영수, 부준필
+ * 구성원: 김소현, 여경철, 이영수, 부준필, 이창영
  * 프로그램 소개: senior manage to GPS, Sensor, RFID.(사람들의 상태를 파악하고 이를 응용하는 프로그램)
  * 프로젝트 홈페이지: http://code.google.com/p/openmcl-seniormanager/
 
@@ -40,6 +40,6 @@
  * 프로젝트 홈페이지:
 
 == #5 프로젝트명 ==
- * 구성원: 이창영, 이종준, 박창홍, 정동 , 고영일, 이종호
- * 프로그램 소개:
+ * 구성원: 이종준, 박창홍, 정동 , 고영일, 이종호
+ * 프로그램 소개: 네이버 다음 통합 검색기
  * 프로젝트 홈페이지:
