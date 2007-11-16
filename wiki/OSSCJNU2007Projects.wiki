@@ -30,9 +30,9 @@
  * 프로젝트 홈페이지: http://code.google.com/p/smarteasy-calendar
 
 == #3 프로젝트명 ==
- * 구성원: 김소현, 여경철, 이영수, 부준필, 이창영
- * 프로그램 소개: senior manage to GPS, Sensor, RFID.(사람들의 상태를 파악하고 이를 응용하는 프로그램)
- * 프로젝트 홈페이지: http://code.google.com/p/openmcl-seniormanager/
+ * 구성원: 여경철, 이영수, 부준필, 이창영, 김소현
+ * 프로그램 소개: aulrim-community( 어울림 커뮤니티)
+ * 프로젝트 홈페이지: http://code.google.com/p/aulrim-community/
 
 == #4 프로젝트명 ==
  * 구성원: 김문경, 박진남, 강태혁, 조준환
