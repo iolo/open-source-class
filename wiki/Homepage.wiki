@@ -1,3 +1,5 @@
+#summary Basic Syllabus
+ 
 ==Purpose== 
 Understanding the basic pricipal of free/open source softwares and skilling up to join open source community and learn to process software developement such as bug reporting, patching code, communication with people with developing tools.
 
