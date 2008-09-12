@@ -1,5 +1,5 @@
 #summary 제주대 오픈소스 방법론 프로젝트
-#labels Class-CJNUce2007,Featured
+#labels Class-CJNUce2007
 
 = Project Homepage =
 === 프로젝트 운영 방식 ===
