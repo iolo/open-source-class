@@ -1,13 +1,15 @@
 #summary 실습 관련 자료
 #labels Class-CJNUce2007
+= Javascript OOP =
+ * http://www.taeyo.net/Lecture/NET_01/JsOop01.asp
+ * http://www.taeyo.net/Lecture/NET_01/JsOop02.asp
+ * http://www.taeyo.net/Lecture/NET_01/JsOop03.asp
+ * http://www.taeyo.net/Lecture/NET_01/JsOop01.asp
 
-= 실습 도구 =
- * Zterm: http://www.brainz.co.kr/down/zterm/Zterm.exe
- * Server: www.creation.net
- * Port: 22
- * ID: oss2007cjnu
+= SubVersion Manual =
+ * http://kldp.org/node/108323
  
-= Launchpad의 번역 작업 =
+= Launchpad Translation =
  # 과제 고르기
   https://translations.launchpad.net/translations/+products-with-translations
  # 번역 작업 하기 
@@ -17,7 +19,8 @@
   * po 파일을 업로드 한다. 
   * https://translations.launchpad.net/bum/trunk/+pots/xxxxx/ko/+upload
 
-== 번역 작업 피드백 ==
- # %s, %d, %i 는 치환될 변수 값이므로 빠뜨리지 않는다. 또한 순서에 따라 값이 그대로 들어가니 어순 잘 고려해서 번역 할 것. (%d of %d -> %d / %d )
- # _나 &가 있는 경우 단축키 역할을 하므로 번역에서 뺄것. (_Edit -> Edit(E) 따라서 편집)
- # 단수 복수 메시지가 있는 경우 msgstr[0] 단수, msgstr[1] 복수 형태로 번역할 것.
+= Telnet =
+ * Zterm: http://www.brainz.co.kr/down/zterm/Zterm.exe
+ * Server: www.creation.net
+ * Port: 22
+ * ID: oss2007cjnu
