@@ -1,0 +1,9 @@
+#summary Wiki test of Bayar
+
+= 제목 1 =
+== 제목 2 ==
+=== 제목 2 ===
+
+*bold* is this, and this is for _italic_
+  paragraph 1
+paragraph no
