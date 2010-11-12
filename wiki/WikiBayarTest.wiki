@@ -12,3 +12,8 @@ paragraph no
 
 || name || age ||
 || Bayar || 25 ||
+
+{{{
+    echo "test";
+     printf("test");
+}}}
