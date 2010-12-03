@@ -3,6 +3,7 @@
 ===Heading3===
 
 *bold*     _italic_
+`inline code``inline code`
 `inline code`
 escape: `*`
 
