@@ -8,7 +8,7 @@
 escape: `*`
 
 Indent lists 2 spaces:
-  * bullet item*'*'*
+  * bullet item'*'*
   # numbered list
 
 {{{
