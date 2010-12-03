@@ -4,3 +4,10 @@
 
 *bold*
 _italickkkkkk_입니다.
+
+{{{
+  #include <stdio.h>
+  int main(void){
+     return 0;
+   }
+}}}
