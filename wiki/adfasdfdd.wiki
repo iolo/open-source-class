@@ -2,5 +2,5 @@
 ==headr2==
 ===headr3===
 
-*bold*입니다
+*bold*
 _italickkkkkk_입니다.
