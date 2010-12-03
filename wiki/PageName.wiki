@@ -1,7 +1,8 @@
 =Heading1=
 ==Heading2==
 ===Heading3===
-
+'''굵게, bold-faced'''
+''기울임, italic''
 *bold*     _italic_
 `inline code``inline code`
 `inline code`
