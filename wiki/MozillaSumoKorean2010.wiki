@@ -21,3 +21,4 @@
 === 송성환 ===
  # [https://support.mozilla.com/en-US/kb/crash-report-email-faq Crash Report E-mail FAQ] 번역 중
  # [https://support.mozilla.com/en-US/kb/zoom-in-and-out 웹사이트를 줌인, 줌아웃하는 방법] 번역중
+ # [https://support.mozilla.com/en-US/kb/open-new-tab 새 탭으로 여는 방법] 번역중
