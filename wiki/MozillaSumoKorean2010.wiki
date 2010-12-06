@@ -44,3 +44,8 @@
  # [https://support.mozilla.com/en-US/kb/How%20to%20clear%20Search%20bar%20history?redirectlocale=en-US&redirectslug=Clear+Search+bar+history How to clear Search bar history] 번역 중
  # [https://support.mozilla.com/en-US/kb/Clearing%20Location%20bar%20history?redirectlocale=en-US&redirectslug=Clear+Location+bar+history Clearing Location bar history] 번역 중
  # [https://support.mozilla.com/en-US/kb/Saving+a+web+page Saving a web page] 번역 중
+
+=== 곽영철 ===
+ # [https://support.mozilla.com/en-US/kb/install-firefox-mobile How do I install Firefox on a mobile device? (어떻게 모바일 기기에 파이어폭스를 설치할 수 있나?)] 번역 중
+ # [https://support.mozilla.com/en-US/kb/how-do-i-add-bookmark How do I add a bookmark? (어떻게 북마크를 추가할 수 있나?)] 번역 중
+ # [https://support.mozilla.com/en-US/kb/change-preferences How do I change preferences? (어떻게 환경설정을 바꿀 수 있나?)] 번역 중
