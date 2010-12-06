@@ -25,5 +25,5 @@
 
 === 장재만 ===
  # [https://support.mozilla.com/en-US/kb/ask-a-question 질문하기] 번역 중
- # [https://support.mozilla.com/en-US/kb/what-are-app-tabs apptab이란?] 번역중
+ # [https://support.mozilla.com/en-US/kb/what-are-app-tabs app-tab 이란?] 번역중
  # [https://support.mozilla.com/en-US/kb/Keyboard%20shortcuts 단축키] 번역중
