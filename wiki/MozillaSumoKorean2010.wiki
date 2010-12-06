@@ -27,3 +27,9 @@
  # [https://support.mozilla.com/en-US/kb/ask-a-question 질문하기] 번역 중
  # [https://support.mozilla.com/en-US/kb/what-are-app-tabs app-tab 이란?] 번역중
  # [https://support.mozilla.com/en-US/kb/Keyboard%20shortcuts 단축키] 번역중
+
+=== 윤미자 ===
+ # [https://support.mozilla.com/en-US/kb/why-are-tabs-top tabs는 왜 위에 있는 이유] 번역 중
+ # [https://support.mozilla.com/en-US/kb/What%20is%20plugin-container plugin-container이란?] 번역중
+ # [https://https://support.mozilla.com/en-US/kb/how-do-i-add-bookmark bookmark하는 방법] 번역중
+ # [https://support.mozilla.com/en-US/kb/upgrade-firefox 파이어폭스 업그레이드 방법] 번역 중
