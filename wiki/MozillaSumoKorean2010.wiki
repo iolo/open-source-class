@@ -51,7 +51,7 @@
  # [https://support.mozilla.com/en-US/kb/change-preferences How do I change preferences? (어떻게 환경설정을 바꿀 수 있나?)] 번역 중
 
 === 임영재 ===
- # [https://support.mozilla.com/en-US/kb/Template:newtofirefox] 번역 중
- # [https://support.mozilla.com/en-US/kb/Template:closeFirefox] 번역 중
- # [https://support.mozilla.com/en-US/kb/Template:profileFolder] 번역 중
- # [https://support.mozilla.com/en-US/kb/templateonly-fx4] 번역 중
+ # [https://support.mozilla.com/en-US/kb/Template:newtofirefox 템플릿 : 새로운 파이어폭스] 번역 중
+ # [https://support.mozilla.com/en-US/kb/Template:closeFirefox 템플릿 : 파이어폭스 닫기] 번역 중
+ # [https://support.mozilla.com/en-US/kb/Template:profileFolder 템플릿 : 프로파일폴더] 번역 중
+ # [https://support.mozilla.com/en-US/kb/templateonly-fx4 템플릿 : 파이어폭스4] 번역 중
