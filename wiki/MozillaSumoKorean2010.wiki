@@ -43,4 +43,4 @@
 === 이성현 ===
  # [https://support.mozilla.com/en-US/kb/How%20to%20clear%20Search%20bar%20history?redirectlocale=en-US&redirectslug=Clear+Search+bar+history How to clear Search bar history] 번역 중
  # [https://support.mozilla.com/en-US/kb/Clearing%20Location%20bar%20history?redirectlocale=en-US&redirectslug=Clear+Location+bar+history Clearing Location bar history] 번역 중
- # [Saving a web page] 번역 중
+ # [https://support.mozilla.com/en-US/kb/Saving+a+web+page Saving a web page] 번역 중
