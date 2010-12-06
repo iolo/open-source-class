@@ -33,3 +33,9 @@
  # [https://support.mozilla.com/en-US/kb/What%20is%20plugin-container plugin-container이란?] 번역중
  # [https://https://support.mozilla.com/en-US/kb/how-do-i-add-bookmark bookmark하는 방법] 번역중
  # [https://support.mozilla.com/en-US/kb/upgrade-firefox 파이어폭스 업그레이드 방법] 번역 중
+
+===김세훈===
+
+# [https://support.mozilla.com/en-US/kb/home-page-quick Home page - Quick (홈 페이지 - 빠른)] 번역 중 
+# [https://support.mozilla.com/en-US/kb/Improving%20articles Improving articles (기사들 개선하기)] 번역 중 
+# [https://support.mozilla.com/en-US/kb/Firefox%20is%20slow Firefox is slow (firefox는 느리다)] 번역 중 
