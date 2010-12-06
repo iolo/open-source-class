@@ -17,3 +17,6 @@
  # [URL 문서제목] 번역 중
  # [URL 문서제목] 번역 중
  # [URL 문서제목] 번역 중
+
+=== 송성환 ===
+ # [https://support.mozilla.com/en-US/kb/crash-report-email-faq Crash Report E-mail FAQ] 번역 중
