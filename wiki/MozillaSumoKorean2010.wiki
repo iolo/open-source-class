@@ -51,3 +51,6 @@
  # [https://support.mozilla.com/en-US/kb/change-preferences How do I change preferences? (어떻게 환경설정을 바꿀 수 있나?)] 번역 중
 
 === 임영재 ===
+ # [https://support.mozilla.com/en-US/kb/Add-ons%20Blocklist] 번역 중
+ # [URL 문서제목] 번역 중
+ # [URL 문서제목] 번역 중
