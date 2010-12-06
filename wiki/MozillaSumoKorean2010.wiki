@@ -41,6 +41,6 @@
   # [https://support.mozilla.com/en-US/kb/Firefox%20is%20slow Firefox is slow (firefox는 느리다)] 번역 중 
 
 === 이성현 ===
- # [https://support.mozilla.com/en-US/kb/How%20to%20clear%20Search%20bar%20history?redirectlocale=en-US&redirectslug=Clear+Search+bar+history 검색바 최기화 하는 방법] 번역 중
- # [URL 문서제목] 번역 중
+ # [https://support.mozilla.com/en-US/kb/How%20to%20clear%20Search%20bar%20history?redirectlocale=en-US&redirectslug=Clear+Search+bar+history 검색바 초기화 하는 방법] 번역 중
+ # [https://support.mozilla.com/en-US/kb/Clearing%20Location%20bar%20history?redirectlocale=en-US&redirectslug=Clear+Location+bar+history 지역바 초기화 하는 방법] 번역 중
  # [URL 문서제목] 번역 중
