@@ -10,10 +10,10 @@
 
 == 학생별 처리 작업 완료 내용 ==
 === 윤석찬 ===
- # [[https://support.mozilla.com/ko/kb/markup-chart 위키 마크업 목록표]] 번역 완료
- # [[https://support.mozilla.com/ko/kb/Server not found 서버를 찾을 수 없습니다]] 번역 중
+ # [https://support.mozilla.com/ko/kb/markup-chart 위키 마크업 목록표] 번역 완료
+ # [https://support.mozilla.com/ko/kb/Server not found 서버를 찾을 수 없습니다] 번역 중
  
 === 홍길동 ===
- # [[URL 문서제목]] 번역 중
- # [[URL 문서제목]] 번역 중
- # [[URL 문서제목]] 번역 중
+ # [URL 문서제목] 번역 중
+ # [URL 문서제목] 번역 중
+ # [URL 문서제목] 번역 중
