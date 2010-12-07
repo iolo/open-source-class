@@ -75,4 +75,4 @@
 === 김종규 ===
  # [https://support.mozilla.com/en-US/kb/what-add-bar What is the Add-on Bar?(애드온바는 무엇인가?)] 번역중
  # [https://support.mozilla.com/en-US/kb/Adding%20screencasts Adding screencasts(스크린캐스트 추가) ] 번역중
- # [https://support.mozilla.com/en-US/kb/Adding%20screenshots(스크린샷 추가)] 번역중
+ # [https://support.mozilla.com/en-US/kb/Adding%20screenshots Adding screenshots(스크린샷 추가)] 번역중
