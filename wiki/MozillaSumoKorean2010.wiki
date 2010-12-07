@@ -50,8 +50,7 @@
  # [https://support.mozilla.com/en-US/kb/How%20do%20I%20change%20or%20remove%20a%20skin] 번역 중
  # [https://support.mozilla.com/en-US/kb/How%20do%20I%20change%20or%20remove%20a%20persona] 번역 중
  # [https://support.mozilla.com/en-US/kb/How%20do%20I%20change%20the%20background%20wallpaper%20of%20Firefox] 번역 중
- # [https://support.mozilla.com/en-US/kb/Forgot%20my%20master%20password
-] 번역 중
+ # [https://support.mozilla.com/en-US/kb/Forgot%20my%20master%20password] 번역 중
  
 === 장봉수 ===
 *Template은 번역 해당 안됩니다. 다른 것을 선택하시기 바랍니다.*
