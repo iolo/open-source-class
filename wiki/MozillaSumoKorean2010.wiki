@@ -84,4 +84,4 @@
 === 김대현 ===
  # [https://support.mozilla.com/en-US/kb/what-happened-status-bar] 번역중
  # [https://support.mozilla.com/en-US/kb/avoid-crashes] 번역중
- # [https://support.mozilla.com/en-US/kb/Options%20window?redirectlocale=en-US&redirectslug=Preferences+window] Options window 번역중
+ # [https://support.mozilla.com/en-US/kb/Options%20window?redirectlocale=en-US&redirectslug=Preferences+window]  번역중
