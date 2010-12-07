@@ -69,3 +69,8 @@
  # [https://support.mozilla.com/en-US/kb/Using%20extensions%20with%20Firefox 파이어폭스 확장 기능 사용방법] 번역중
  # [https://support.mozilla.com/en-US/kb/How%20to%20customize%20the%20toolbar 툴바 커스터마이징하기] 번역중
  # [https://support.mozilla.com/en-US/kb/Quick%20find%20bar%20opens%20when%20typing%20in%20text%20fields Quick find bar opens when typing in text fields] 번역중
+
+=== 이유미 ===
+#[https://support.mozilla.com/en-US/kb/find-and-install-add-ons How do I find and install Add-ons?(추가기능을 찾고 설치하는 방법)] 번역중
+#[https://support.mozilla.com/en-US/kb/surf-web-with-mobile-firefox How do I surf the web with mobile FireFox?(모바일 파이어폭스 웹에서 서핑하는 방법) ] 번역중
+#[https://support.mozilla.com/en-US/kb/mobile-keyboard-shortcuts What are the mobile keyboard shortcuts?(모바일 키보드 단축키)] 번역중
