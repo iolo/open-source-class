@@ -57,6 +57,6 @@
  # [https://support.mozilla.com/en-US/kb/templateonly-fx4 템플릿 : 파이어폭스4] 번역 중
 
 === 장봉수 ===
- # [https://support.mozilla.com/en-US/kb/Restore%20the%20default%20Smart%20Bookmarks%20Folders 디폴트 스마트 북마크 폴더들 반환하기] 번역중
+ # [https://support.mozilla.com/en-US/kb/testInclude 포함 시험] 번역중
  # [https://support.mozilla.com/en-US/kb/Template:RegNotif 템플릿 : 등록 또는 통지하기] 번역중
  # [https://support.mozilla.com/en-US/kb/Template:crashsig 템플릿 : 충돌함] 번역중
