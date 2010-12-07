@@ -83,6 +83,5 @@
 
 === 김대현 ===
  # [https://support.mozilla.com/en-US/kb/what-happened-status-bar What happened status bar?] 번역중
- # [https://support.mozilla.com/en-US/kb/avoid-crashes How do I avoid crashes?
-] 번역중
+ # [https://support.mozilla.com/en-US/kb/avoid-crashes How do I avoid crashes?] 번역중
  # [https://support.mozilla.com/en-US/kb/Options%20window?redirectlocale=en-US&redirectslug=Preferences+window options window]  번역중
