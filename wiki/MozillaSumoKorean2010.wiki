@@ -82,6 +82,6 @@
  # [https://support.mozilla.com/en-US/kb/open-new-tab?redirectlocale=en-US&redirectslug=How+to+open+a+new+tab+in+mobile+Firefox How do I open a new tab (새로운 탭을 여는 방법)] 번역중
 
 === 김대현 ===
-# [https://support.mozilla.com/en-US/kb/what-happened-status-bar] 번역중
-# [https://support.mozilla.com/en-US/kb/avoid-crashes] 번역중
-# [https://support.mozilla.com/en-US/kb/Options%20window?redirectlocale=en-US&redirectslug=Preferences+window] Options window 번역중
+ # [https://support.mozilla.com/en-US/kb/what-happened-status-bar] 번역중
+ # [https://support.mozilla.com/en-US/kb/avoid-crashes] 번역중
+ # [https://support.mozilla.com/en-US/kb/Options%20window?redirectlocale=en-US&redirectslug=Preferences+window] Options window 번역중
