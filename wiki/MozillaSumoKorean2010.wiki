@@ -50,9 +50,10 @@
  # [https://support.mozilla.com/en-US/kb/How%20do%20I%20change%20or%20remove%20a%20skin] 번역 중
  # [https://support.mozilla.com/en-US/kb/How%20do%20I%20change%20or%20remove%20a%20persona] 번역 중
  # [https://support.mozilla.com/en-US/kb/How%20do%20I%20change%20the%20background%20wallpaper%20of%20Firefox] 번역 중
- # [https://support.mozilla.com/en-US/kb/install-firefox-mobile?redirectlocale=en-US&redirectslug=How+to+install+Firefox+for+mobile] 번역 중
-
- === 장봉수 ===
+ # [https://support.mozilla.com/en-US/kb/Forgot%20my%20master%20password
+] 번역 중
+ 
+=== 장봉수 ===
 *Template은 번역 해당 안됩니다. 다른 것을 선택하시기 바랍니다.*
  # [https://support.mozilla.com/en-US/kb/testInclude 포함 시험] 번역중
  # [https://support.mozilla.com/en-US/kb/Template:RegNotif 템플릿 : 등록 또는 통지하기] 번역중
