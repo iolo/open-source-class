@@ -13,11 +13,6 @@
  # [https://support.mozilla.com/ko/kb/markup-chart 위키 마크업 목록표] 번역 완료
  # [https://support.mozilla.com/ko/kb/Server not found 서버를 찾을 수 없습니다] 번역 중
  
-=== 홍길동 ===
- # [URL 문서제목] 번역 중
- # [URL 문서제목] 번역 중
- # [URL 문서제목] 번역 중
-
 === 송성환 ===
  # [https://support.mozilla.com/en-US/kb/crash-report-email-faq E-mail 오류 보고서 전송 FAQ] 번역 중
  # [https://support.mozilla.com/en-US/kb/zoom-in-and-out 웹사이트를 줌인, 줌아웃하는 방법] 번역중
@@ -51,12 +46,14 @@
  # [https://support.mozilla.com/en-US/kb/change-preferences How do I change preferences? (어떻게 환경설정을 바꿀 수 있나?)] 번역 중
 
 === 임영재 ===
+*Template은 번역 해당 안됩니다. 다른 것을 선택하시기 바랍니다.*
  # [https://support.mozilla.com/en-US/kb/Template:newtofirefox 템플릿 : 새로운 파이어폭스] 번역 중
  # [https://support.mozilla.com/en-US/kb/Template:closeFirefox 템플릿 : 파이어폭스 닫기] 번역 중
  # [https://support.mozilla.com/en-US/kb/Template:profileFolder 템플릿 : 프로파일폴더] 번역 중
  # [https://support.mozilla.com/en-US/kb/templateonly-fx4 템플릿 : 파이어폭스4] 번역 중
 
 === 장봉수 ===
+*Template은 번역 해당 안됩니다. 다른 것을 선택하시기 바랍니다.*
  # [https://support.mozilla.com/en-US/kb/testInclude 포함 시험] 번역중
  # [https://support.mozilla.com/en-US/kb/Template:RegNotif 템플릿 : 등록 또는 통지하기] 번역중
  # [https://support.mozilla.com/en-US/kb/Template:crashsig 템플릿 : 충돌함] 번역중
