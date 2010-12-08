@@ -92,3 +92,5 @@
 
 === 고시철 ===
  # [https://support.mozilla.com/en-US/kb/Unexpected installation error -203 when installing add-ons] 번역중
+ # [https://support.mozilla.com/en-US/kb/Links do not open in Firefox] 번역중
+ # [https://support.mozilla.com/en-US/kb/Template:closeFirefox]번역중
