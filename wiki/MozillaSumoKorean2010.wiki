@@ -52,7 +52,6 @@
  # [https://support.mozilla.com/en-US/kb/How%20do%20I%20change%20or%20remove%20a%20persona How do I change or remove a persona] 번역 중
  
 === 장봉수 ===
-*Template은 번역 해당 안됩니다. 다른 것을 선택하시기 바랍니다.*
  # [https://support.mozilla.com/en-US/kb/Clear%20Recent%20History Clear Recent History] 번역중
  # [https://support.mozilla.com/en-US/kb/Using%20the%20Adobe%20Reader%20plugin%20with%20Firefox Using the Adobe Reader plugin with Firefox] 번역중
  # [https://support.mozilla.com/en-US/kb/manage-downloads?redirectlocale=en-US&redirectslug=How+to+manage+downloads+in+mobile+Firefox How do I manage downloads?] 번역중
