@@ -53,9 +53,9 @@
  
 === 장봉수 ===
 *Template은 번역 해당 안됩니다. 다른 것을 선택하시기 바랍니다.*
- # [https://support.mozilla.com/en-US/kb/testInclude 포함 시험] 번역중
- # [https://support.mozilla.com/en-US/kb/Template:RegNotif 템플릿 : 등록 또는 통지하기] 번역중
- # [https://support.mozilla.com/en-US/kb/Template:crashsig 템플릿 : 충돌함] 번역중
+ # [https://support.mozilla.com/en-US/kb/Clear%20Recent%20History Clear Recent History] 번역중
+ # [https://support.mozilla.com/en-US/kb/Using%20the%20Adobe%20Reader%20plugin%20with%20Firefox Using the Adobe Reader plugin with Firefox] 번역중
+ # [https://support.mozilla.com/en-US/kb/manage-downloads?redirectlocale=en-US&redirectslug=How+to+manage+downloads+in+mobile+Firefox How do I manage downloads?] 번역중
 === 강민철 ===
  # [https://support.mozilla.com/en-US/kb/manage-downloads How do I manage downloads?(모바일에서 다운로드 관리하는 방법)] 번역 중
  # [https://support.mozilla.com/en-US/kb/remove-or-disable-add-ons How do I remove or disable Add-ons?(항목을 제거 또는 비활성화 하는 방법)] 번역중
