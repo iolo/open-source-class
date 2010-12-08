@@ -84,3 +84,8 @@
  # [https://support.mozilla.com/en-US/kb/what-happened-status-bar What happened to the Status Bar?] 번역중
  # [https://support.mozilla.com/en-US/kb/avoid-crashes How do I avoid crashes?] 번역중
  # [https://support.mozilla.com/en-US/kb/Options%20window?redirectlocale=en-US&redirectslug=Preferences+window Options window]  번역중
+
+=== 이경순 ===
+ # [https://support.mozilla.com/en-US/kb/Upgrading%20Firefox Upgrading Firefox (업그레이드 파이어폭스)] 번역중
+ # [https://support.mozilla.com/en-US/kb/Configuring%20BitDefender%20Internet%20Security Configuring BitDefender Internet Security (BitDefender 인터넷 보안 구성)] 번역중
+ # [https://support.mozilla.com/en-US/kb/how-do-i-add-bookmark?redirectlocale=en-US&redirectslug=How+to+add+a+bookmark+in+mobile+Firefox How do I add a bookmark? (wmf겨찾기를 추가하는 방법)] 번역중
