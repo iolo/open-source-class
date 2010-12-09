@@ -94,3 +94,9 @@
  # [https://support.mozilla.com/en-US/kb/Unexpected%20installation%20error%20-203%20when%20installing%20add-ons Unexpected installation error -203 when installing add-ons] 번역중
  # [https://support.mozilla.com/en-US/kb/Links%20do%20not%20open%20in%20Firefox Links do not open in Firefox] 번역중
  # [https://support.mozilla.com/en-US/kb/Template:closeFirefox Template:closeFirefox]번역중
+
+=== 문경대 ===
+ # [https://support.mozilla.com/en-US/kb/Exporting%20bookmarks%20to%20an%20HTML%20file] 번역중
+ # [https://support.mozilla.com/en-US/kb/Updating%20Firefox#w_automatic-updates] 번역중
+ # [https://support.mozilla.com/en-US/kb/Managing%20the%20Flash%20plugin] 번역중
+ # [https://support.mozilla.com/en-US/kb/Private%20Browsing] 번역중
