@@ -93,8 +93,9 @@
 === 고시철 ===
  # [https://support.mozilla.com/en-US/kb/Unexpected%20installation%20error%20-203%20when%20installing%20add-ons Unexpected installation error -203 when installing add-ons] 번역중
  # [https://support.mozilla.com/en-US/kb/Links%20do%20not%20open%20in%20Firefox Links do not open in Firefox] 번역중
- # [https://support.mozilla.com/en-US/kb/Group%20permissions Group permissions]번역중
+ # [https://support.mozilla.com/en-US/kb/Group%20permissions Group permissions] 번역중
 
+ # [https://support.mozilla.com/en-US/kb/Upgrading%20from%20Firefox%201 Upgrading from Frefox 1] 번역중
 === 문경대 ===
  # [https://support.mozilla.com/en-US/kb/Exporting%20bookmarks%20to%20an%20HTML%20file 책갈피 내보내기] 번역중
  # [https://support.mozilla.com/en-US/kb/Updating%20Firefox#w_automatic-updates 자동업데이트] 번역중
