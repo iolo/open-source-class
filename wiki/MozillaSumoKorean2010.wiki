@@ -31,7 +31,7 @@
 
 ===김세훈===
 
-  # [https://support.mozilla.com/en-US/kb/Improving%20articles Improving articles (유익한 기사들)] 번역 중 
+  # [https://support.mozilla.com/en-US/kb/Improving%20articles Improving articles (유익한 기사들)] 번역 완료 
   # [https://support.mozilla.com/en-US/kb/Firefox%20is%20slow Firefox is slow (firefox는 느리다)] 번역 완료 
   # [https://support.mozilla.com/en-US/kb/Bookmark%20folders Bookmark folders(Bookmark 폴더들)] 번역 중
 
