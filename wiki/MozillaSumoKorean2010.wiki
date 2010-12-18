@@ -91,7 +91,6 @@
  # [https://support.mozilla.com/en-US/kb/how-do-i-add-bookmark?redirectlocale=en-US&redirectslug=How+to+add+a+bookmark+in+mobile+Firefox How do I add a bookmark? (wmf겨찾기를 추가하는 방법)] 번역중
 
 === 고시철 ===
- # [https://support.mozilla.com/en-US/kb/Unexpected%20installation%20error%20-203%20when%20installing%20add-ons Unexpected installation error -203 when installing add-ons] 번역중
  # [https://support.mozilla.com/en-US/kb/Links%20do%20not%20open%20in%20Firefox Links do not open in Firefox] 번역중
  # [https://support.mozilla.com/en-US/kb/Group%20permissions Group permissions] 번역중
  # [https://support.mozilla.com/en-US/kb/Upgrading%20from%20Firefox%201 Upgrading from Frefox 1] 번역중
