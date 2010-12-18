@@ -42,8 +42,8 @@
 
 === 곽영철 ===
  # [https://support.mozilla.com/en-US/kb/install-firefox-mobile How do I install Firefox on a mobile device? (어떻게 모바일 기기에 파이어폭스를 설치할 수 있나?)] 번역 완료
- # [https://support.mozilla.com/en-US/kb/sync-firefox-between-desktop-and-mobile How do I sync Firefox between my desktop and mobile? (어떻게 내 컴퓨터와 모바일 기기의 파이어폭스를 동기화시킬 수 있나?)] 번역 중
  # [https://support.mozilla.com/en-US/kb/change-preferences How do I change preferences? (어떻게 환경설정을 바꿀 수 있나?)] 번역 완료
+ # [https://support.mozilla.com/en-US/kb/sync-firefox-between-desktop-and-mobile How do I sync Firefox between my desktop and mobile? (어떻게 내 컴퓨터와 모바일 기기의 파이어폭스를 동기화시킬 수 있나?)] 번역 중
 
 === 임영재 ===
 *변경 하였습니다.*
