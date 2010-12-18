@@ -19,7 +19,7 @@
  # [https://support.mozilla.com/en-US/kb/open-new-tab 새 탭으로 여는 방법] 번역중
 
 === 장재만 ===
- # [https://support.mozilla.com/en-US/kb/Where%20are%20my%20bookmarks%20history%20and%20other%20data%20stored 즐겨찾기 목록과 저장된 데이터는 어디에] 번역 중
+ # [https://support.mozilla.com/en-US/kb/Where%20are%20my%20bookmarks%20history%20and%20other%20data%20stored 즐겨찾기 기록 및 저장된 데이터는 어디에] 번역 중
  # [https://support.mozilla.com/en-US/kb/what-are-app-tabs app-tab 이란?] 번역중
  # [https://support.mozilla.com/en-US/kb/Keyboard%20shortcuts 단축키] 번역중
 
