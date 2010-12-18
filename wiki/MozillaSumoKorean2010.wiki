@@ -26,7 +26,7 @@
 === 장재만 ===
  # [https://support.mozilla.com/en-US/kb/Where%20are%20my%20bookmarks%20history%20and%20other%20data%20stored 즐겨찾기 기록 및 저장된 데이터는 어디에] 번역 완료
  # [https://support.mozilla.com/en-US/kb/what-are-app-tabs app-tab 이란?] 번역 완료
- # [https://support.mozilla.com/en-US/kb/Exporting%20data%20to%20Internet%20Explorer 인터넷 익스플로러에 데이터보내기] 번역중
+ # [https://support.mozilla.com/en-US/kb/Exporting%20data%20to%20Internet%20Explorer 인터넷 익스플로러에 데이터보내기] 번역 완료
 
 === 윤미자 ===
  # [https://support.mozilla.com/en-US/kb/why-are-tabs-top tabs는 왜 위에 있는 이유] 번역 중
