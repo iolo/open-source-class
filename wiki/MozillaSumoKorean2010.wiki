@@ -12,6 +12,7 @@
 === 장재혁 ===
  # [https://support.mozilla.com/ko/kb/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%B2%AD%EC%86%8C%ED%95%98%EA%B8%B0 Clearing private data] 개인정보정리 번역 완료
  # [https://support.mozilla.com/ko/kb/Firefox%20displays%20files%20as%20text Firefox displays files as text] 파이어폭스는 파일을 텍스트로 나타냅니다 번역완료
+ # [https://support.mozilla.com/en-US/kb/Remembering%20passwords Remembering passwords]암호 기억하기 번역 중
 
 
 === 윤석찬 ===
