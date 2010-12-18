@@ -63,7 +63,7 @@
 === 김효주 ===
  # [https://support.mozilla.com/en-US/kb/Using%20extensions%20with%20Firefox 파이어폭스 확장 기능 사용방법] 제출
  # [https://support.mozilla.com/en-US/kb/How%20to%20customize%20the%20toolbar Toolbar 커스터마이징 하기] 제출
- # [https://support.mozilla.com/en-US/kb/Quick%20find%20bar%20opens%20when%20typing%20in%20text%20fields 텍스트 입력 중에 빠른 검색이 실행될 때] 번역중
+ # [https://support.mozilla.com/en-US/kb/Quick%20find%20bar%20opens%20when%20typing%20in%20text%20fields 텍스트 입력 중에 빠른 검색이 실행될 때] 제출
 
 === 이유미 ===
  # [https://support.mozilla.com/ko/kb/find-and-install-add-ons How do I find and install Add-ons?(추가기능을 찾고 설치하는 방법)] 번역완료
