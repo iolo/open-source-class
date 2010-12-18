@@ -19,7 +19,7 @@
  # [https://support.mozilla.com/en-US/kb/open-new-tab 새 탭으로 여는 방법] 번역중
 
 === 장재만 ===
- # [https://support.mozilla.com/en-US/kb/ask-a-question 질문하기] 번역 중
+ # [https://support.mozilla.com/en-US/kb/What%20is%20plugin-container 플러그인-콘테이너 란?] 번역 중
  # [https://support.mozilla.com/en-US/kb/what-are-app-tabs app-tab 이란?] 번역중
  # [https://support.mozilla.com/en-US/kb/Keyboard%20shortcuts 단축키] 번역중
 
