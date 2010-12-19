@@ -11,6 +11,7 @@
 == 학생별 처리 작업 완료 내용 ==
 === 윤인찬 ===
  # [https://support.mozilla.com/en-US/kb/Template:optionspreferences] 번역중
+ # [https://support.mozilla.com/en-US/kb/Granting%20JavaScript%20access%20to%20the%20clipboard] 번역중
 
 === 장재혁 ===
  # [https://support.mozilla.com/ko/kb/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%B2%AD%EC%86%8C%ED%95%98%EA%B8%B0/revision/6913 Clearing private data] 개인정보정리 번역 완료
