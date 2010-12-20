@@ -48,7 +48,7 @@
 === 이성현 ===
  # [https://support.mozilla.com/ko/kb/How%20to%20clear%20Search%20bar%20history?redirectlocale=en-US&redirectslug=Clear+Search+bar+history How to clear Search bar history] 번역 중
  # [https://support.mozilla.com/en-US/kb/Clearing%20Location%20bar%20history?redirectlocale=en-US&redirectslug=Clear+Location+bar+history Clearing Location bar history] 번역 중
- # [https://support.mozilla.com/en-US/kb/Saving+a+web+page Saving a web page] 번역 중
+ # [https://support.mozilla.com/ko/kb/%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0] 번역 중
 
 === 곽영철 ===
  # [https://support.mozilla.com/ko/kb/install-firefox-mobile How do I install Firefox on a mobile device? (어떻게 모바일 기기에 파이어폭스를 설치할 수 있나?)] 번역 완료
