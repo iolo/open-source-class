@@ -110,4 +110,4 @@
 
  # [https://support.mozilla.com/en-US/kb/Updating%20Firefox#w_automatic-updates 자동업데이트] 완료
  # [https://support.mozilla.com/en-US/kb/Managing%20the%20Flash%20plugin 플래쉬 플러그인 관리] 완료
- # [https://support.mozilla.com/en-US/kb/Private%20Browsing 사생활 보호 모드] 번역중
+ # [https://support.mozilla.com/en-US/kb/Check%20for%20Updates%20is%20disabled 업데이트가 비활성화됨] 번역중
