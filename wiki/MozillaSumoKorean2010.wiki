@@ -10,9 +10,9 @@
 
 == 학생별 처리 작업 완료 내용 ==
 === 윤인찬 ===
- # [https://support.mozilla.com/en-US/kb/where-can-i-find-my-firefox-sync-key][어디서 나의 파이어폭스 동기화키를 찾을수 있나] 번역완료
- # [https://support.mozilla.com/en-US/kb/Granting%20JavaScript%20access%20to%20the%20clipboard][자바스크립트로 클립보드의 접근 허용] 번역완료
- # [https://support.mozilla.com/en-US/kb/add-a-device-to-firefox-sync] 번역중
+ # [https://support.mozilla.com/ko/kb/where-can-i-find-my-firefox-sync-key][어디서 나의 파이어폭스 동기화키를 찾을수 있나] 번역완료
+ # [https://support.mozilla.com/ko/kb/Granting%20JavaScript%20access%20to%20the%20clipboard][자바스크립트로 클립보드의 접근 허용] 번역완료
+ # [https://support.mozilla.com/ko/kb/add-a-device-to-firefox-sync] 번역중
 
 === 장재혁 ===
  # [https://support.mozilla.com/ko/kb/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%B2%AD%EC%86%8C%ED%95%98%EA%B8%B0/revision/6913 Clearing private data] 개인정보정리 번역 완료
