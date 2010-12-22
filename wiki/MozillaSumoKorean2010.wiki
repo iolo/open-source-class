@@ -115,5 +115,5 @@
 
 === 강익선 ===
  # [https://support.mozilla.com/en-US/kb/How%20to%20clear%20the%20cache How to clear the cache] 번역 중
- # [https://support.mozilla.com/en-US/kb/Cannot%20view%20full%20screen%20Flash%20videos Downloads window does not open Cannot view full screen Flash videos] 번역 중
+ # [https://support.mozilla.com/en-US/kb/Cannot%20view%20full%20screen%20Flash%20videos Cannot view full screen Flash videos] 번역 중
  # [https://support.mozilla.com/en-US/kb/Downloads%20window%20does%20not%20open Downloads window does not open] 번역 중
