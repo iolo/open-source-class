@@ -87,7 +87,7 @@
 
 === 강민지 ===
  # [https://support.mozilla.com/ko/kb/Firefox%20exe%20is%20always%20running  Firefox exe is always running Firefox 실행파일은 항상 동작중] 번역완료
- # [https://support.mozilla.com/ko/kb/Firefox%20does%20not%20work/history Firefox does not work (동작하지 않는 Firefox)] 번역완료
+ # [https://support.mozilla.com/ko/kb/Firefox%20does%20not%20work Firefox does not work (동작하지 않는 Firefox)] 번역완료
  # [https://support.mozilla.com/en-US/kb/open-new-tab?redirectlocale=en-US&redirectslug=How+to+open+a+new+tab+in+mobile+Firefox How do I open a new tab (새로운 탭을 여는 방법)] 번역중
 
 === 김대현 ===
