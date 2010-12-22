@@ -98,7 +98,7 @@
 
 === 이경순 ===
  # [https://support.mozilla.com/ko/kb/Upgrading%20Firefox Upgrading Firefox (업그레이드 파이어폭스)] 번역완료
- # [https://support.mozilla.com/en-US/kb/Configuring%20BitDefender%20Internet%20Security Configuring BitDefender Internet Security (BitDefender 인터넷 보안 구성)] 번역중
+ # [https://support.mozilla.com/ko/kb/Configuring%20BitDefender%20Internet%20Security BitDefender Internet Security (BitDefender 인터넷 보안 구성)] 번역완료
  # [https://support.mozilla.com/en-US/kb/how-do-i-add-bookmark?redirectlocale=en-US&redirectslug=How+to+add+a+bookmark+in+mobile+Firefox How do I add a bookmark? (wmf겨찾기를 추가하는 방법)] 번역중
 
 === 고시철 ===
