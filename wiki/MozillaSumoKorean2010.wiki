@@ -120,5 +120,5 @@
 
 === 강주형 ===
  # [https://support.mozilla.com/en-US/kb/how-do-i-set-up-firefox-sync] 번역 중
- # [https://support.mozilla.com/en-US/kb/Blocking%20cookies] 번역 중
+ # [https://support.mozilla.com/en-US/kb/Blocking%20cookies] 완료
  # [https://support.mozilla.com/en-US/kb/Using%20plugins%20with%20Firefox] 번역 중
