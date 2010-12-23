@@ -66,7 +66,7 @@
  # [https://support.mozilla.com/en-US/kb/How%20do%20I%20change%20or%20remove%20a%20persona How do I change or remove a persona] 번역 중
  
 === 장봉수 ===
- # [https://support.mozilla.com/en-US/kb/Clear%20Recent%20History Clear Recent History] 번역중
+ # [https://support.mozilla.com/en-US/kb/How%20to%20set%20up%20Firefox%20Home%20on%20your%20iPhone How to set up Firefox Home on your iPhone] 번역완료
  # [https://support.mozilla.com/en-US/kb/find-code-to-add-device-to-firefox-sync find code to add device to firefox  sync] 번역완료
  # [https://support.mozilla.com/en-US/kb/Managing%20downloads Managing downloads] 번역완료
 === 강민철 ===
