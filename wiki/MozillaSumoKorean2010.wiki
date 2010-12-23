@@ -99,12 +99,12 @@
  # [https://support.mozilla.com/ko/kb/what-happened-status-bar/revision/6925 What happened to the Status Bar?(상태표시줄은 어떻게 되었는가?)] 번역완료
  # [https://support.mozilla.com/ko/kb/avoid-crashes/revision/6922 How do I avoid crashes(충돌을 피하는 방법)] 번역완료
  # [https://support.mozilla.com/ko/kb/Options%20window/revision/6929 Options window (윈도우 옵션들)]  번역완료
- # [https://support.mozilla.com/ko/kb/how-do-i-use-awesome-screen/revision/6932 How do I use the Awesome Screen? (멋진 스크린구성을 이용하는 방법)] 번역완료
+ # [https://support.mozilla.com/ko/kb/how-do-i-use-awesome-screen/revision/6932 How do I use the Awesome Screen? (멋진 스크린을 이용하는 방법)] 번역완료
  # [https://support.mozilla.com/en-US/kb/site-credits Site Credits (사이트 크레딧)] 번역완료
- # [https://support.mozilla.com/en-US/kb/Replace%20your%20Sync%20information Replace your Sync information (동기화정보를 교체하는 방법] 번역완료
- # [https://support.mozilla.com/en-US/kb/Firefox%20Sync%20is%20not%20working Firefox 동기화가 이루어지지 않을 경우] 번역완료
- # [https://support.mozilla.com/en-US/kb/How%20to%20sync%20Firefox%20settings%20between%20computers How to sync Firefox settings between computers] 번역중
- # [https://support.mozilla.com/en-US/kb/Toolbar%20keeps%20resetting Toolbar keeps resetting] 번역대기
+ # [https://support.mozilla.com/en-US/kb/Replace%20your%20Sync%20information Replace your Sync information (동기화정보를 교체하는 방법)] 번역완료
+ # [https://support.mozilla.com/en-US/kb/Firefox%20Sync%20is%20not%20working Firefox Sync is not working(Firefox 동기화가 이루어지지 않을 경우)] 번역완료
+ # [https://support.mozilla.com/en-US/kb/How%20to%20sync%20Firefox%20settings%20between%20computers How to sync Firefox settings between computers] 번역문서이상
+ # [https://support.mozilla.com/en-US/kb/Toolbar%20keeps%20resetting Toolbar keeps resetting] 번역중
  # [https://support.mozilla.com/en-US/kb/will-firefox-work-my-phone Will Firefox work on my phone?] 번역대기
 
 
