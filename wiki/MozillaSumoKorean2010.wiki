@@ -108,6 +108,7 @@
  # [https://support.mozilla.com/en-US/kb/Links%20do%20not%20open%20in%20Firefox Links do not open in Firefox] 번역완료
  # [https://support.mozilla.com/en-US/kb/Group%20permissions Group permissions] 번역중
  # [https://support.mozilla.com/en-US/kb/Upgrading%20from%20Firefox%201 Upgrading from Frefox 1] 번역완료
+ # [https://support.mozilla.com/ko/kb/Add-ons%20Blocklist Add-on Blocklist] 번역완료
 
 === 문경대 ===
 
