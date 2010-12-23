@@ -123,5 +123,5 @@
 
 === 강주형 ===
  # [https://support.mozilla.com/en-US/kb/how-do-i-set-up-firefox-sync] 파이어폭스 싱크는 어떻게 설정하나요? - 번역완료
- # [https://support.mozilla.com/en-US/kb/Blocking%20cookies] 번역완료
- # [https://support.mozilla.com/en-US/kb/Using%20plugins%20with%20Firefox] 번역완료
+ # [https://support.mozilla.com/en-US/kb/Blocking%20cookies] 쿠키 차단 방법 - 번역완료
+ # [https://support.mozilla.com/en-US/kb/Using%20plugins%20with%20Firefox] 파이어폭스에서 플러그인 사용하기 - 번역완료
