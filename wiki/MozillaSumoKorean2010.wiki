@@ -104,8 +104,8 @@
  # [https://support.mozilla.com/en-US/kb/Replace%20your%20Sync%20information Replace your Sync information (동기화정보를 교체하는 방법)] 번역완료
  # [https://support.mozilla.com/en-US/kb/Firefox%20Sync%20is%20not%20working Firefox Sync is not working(Firefox 동기화가 이루어지지 않을 경우)] 번역완료
  # [https://support.mozilla.com/en-US/kb/How%20to%20sync%20Firefox%20settings%20between%20computers How to sync Firefox settings between computers] 번역문서이상
- # [https://support.mozilla.com/en-US/kb/Toolbar%20keeps%20resetting Toolbar keeps resetting] 번역중
- # [https://support.mozilla.com/en-US/kb/will-firefox-work-my-phone Will Firefox work on my phone?] 번역대기
+ # [https://support.mozilla.com/en-US/kb/Toolbar%20keeps%20resetting Toolbar keeps resetting] 번역완료
+ # [https://support.mozilla.com/en-US/kb/will-firefox-work-my-phone Will Firefox work on my phone?] 번역중
 
 
 === 이경순 ===
