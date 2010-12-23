@@ -67,7 +67,7 @@
  
 === 장봉수 ===
  # [https://support.mozilla.com/en-US/kb/Clear%20Recent%20History Clear Recent History] 번역중
- # [https://support.mozilla.com/en-US/kb/find-code-to-add-device-to-firefox-sync find code to add device to firefox  sync] 번역중
+ # [https://support.mozilla.com/en-US/kb/find-code-to-add-device-to-firefox-sync find code to add device to firefox  sync] 번역완료
  # [https://support.mozilla.com/en-US/kb/Managing%20downloads Managing downloads] 번역완료
 === 강민철 ===
  # [https://support.mozilla.com/en-US/kb/manage-downloads How do I manage downloads?(모바일에서 다운로드 관리하는 방법)] 번역완료
