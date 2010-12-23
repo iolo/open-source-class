@@ -129,3 +129,8 @@
  # [https://support.mozilla.com/en-US/kb/Firefox%20launches%20automatically%20when%20your%20computer%20starts (Firefox launches automatically when your computer starts)] - 번역완료
  # [https://support.mozilla.com/en-US/kb/Error%20code%20500%20accessing%20secure%20sites (Error code 500 accessing secure sites)] - 번역완료
  # [https://support.mozilla.com/en-US/kb/Username%20and%20password%20not%20remembered?redirectlocale=en-US&redirectslug=Cannot+use+or+save+passwords+after+upgrading+Firefox (Username and password not remembered)] - 번역완료
+ # [https://support.mozilla.com/en-US/kb/Images%20or%20animations%20do%20not%20show (Images or animations do not show)] - 번역중
+ # [https://support.mozilla.com/en-US/kb/Websites%20look%20wrong (Websites look wrong)] - 번역중 
+# [https://support.mozilla.com/en-US/kb/Importing%20bookmarks%20and%20other%20data%20from%20Opera (Importing bookmarks and other data from Opera)] - 번역중 
+# [https://support.mozilla.com/en-US/kb/How%20to%20turn%20off%20Java%20applets (How to turn off Java applets)] - 번역중
+# [https://support.mozilla.com/en-US/kb/Changing%20fonts%20and%20colors (Changing fonts and colors)] - 번역중
