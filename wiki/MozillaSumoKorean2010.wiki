@@ -61,8 +61,8 @@
 
 === 임영재 ===
  # [https://support.mozilla.com/ko/kb/Firefox%20prints%20pages%20in%20a%20different%20layout 파이어 폭스가 다른 레이아웃을 인쇄하는 경우] 번역완료
- # [https://support.mozilla.com/ko/kb/Forgot%20my%20master%20password/history 나의 기본 암호를 잊어 버렸을 경우] 번역 중
- # [https://support.mozilla.com/ko/kb/installing%20Internet%20Explorer Internet Explorer를 언인스톨 하고자 할때] 번역 중
+ # [https://support.mozilla.com/ko/kb/Forgot%20my%20master%20password/history 나의 기본 암호를 잊어 버렸을 경우] 번역완료
+ # [https://support.mozilla.com/ko/kb/installing%20Internet%20Explorer Internet Explorer를 언인스톨 하고자 할때] 번역완료 
  
 === 장봉수 ===
  # [https://support.mozilla.com/en-US/kb/How%20to%20set%20up%20Firefox%20Home%20on%20your%20iPhone How to set up Firefox Home on your iPhone] 번역완료
