@@ -117,9 +117,9 @@
  # [https://support.mozilla.com/en-US/kb/Check%20for%20Updates%20is%20disabled 업데이트가 비활성화됨] 번역중
 
 === 강익선 ===
- # [https://support.mozilla.com/en-US/kb/How%20to%20clear%20the%20cache How to clear the cache] 번역 중
- # [https://support.mozilla.com/en-US/kb/Cannot%20view%20full%20screen%20Flash%20videos Cannot view full screen Flash videos] 번역 중
- # [https://support.mozilla.com/en-US/kb/Downloads%20window%20does%20not%20open Downloads window does not open] 번역 중
+ # [https://support.mozilla.com/en-US/kb/How%20to%20clear%20the%20cache 임시파일 삭제 방법] 번역 완료
+ # [https://support.mozilla.com/en-US/kb/Cannot%20view%20full%20screen%20Flash%20videos 플래시 동영상을 전체화면으로 볼 수 없을 경우] 번역 완료
+ # [https://support.mozilla.com/en-US/kb/Downloads%20window%20does%20not%20open 다운로드 창이 열리지 않을 경우] 번역 완료
 
 === 강주형 ===
  # [https://support.mozilla.com/en-US/kb/how-do-i-set-up-firefox-sync] 파이어폭스 싱크는 어떻게 설정하나요? - 번역완료
