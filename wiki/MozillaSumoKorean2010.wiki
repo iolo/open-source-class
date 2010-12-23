@@ -96,8 +96,8 @@
  # [https://support.mozilla.com/ko/kb/Options%20window/revision/6929 Options window (윈도우 옵션들)]  번역완료
  # [https://support.mozilla.com/ko/kb/how-do-i-use-awesome-screen/revision/6932 How do I use the Awesome Screen? (멋진 스크린구성을 이용하는 방법)] 번역완료
  # [https://support.mozilla.com/en-US/kb/site-credits Site Credits (사이트 크레딧)] 번역완료
- # [https://support.mozilla.com/en-US/kb/Replace%20your%20Sync%20information Replace your Sync information (동기화정보를 교체하는 방법] 번역완료
- # [https://support.mozilla.com/en-US/kb/Firefox%20Sync%20is%20not%20working Firefox sync is not working] 번역중
+ # [https://support.mozilla.com/en-US/kb/Replace%20your%20Sync%20information Replace your Sync information (동기화정보를 교체하는 방법)] 번역완료
+ # [https://support.mozilla.com/en-US/kb/Firefox%20Sync%20is%20not%20working Firefox sync is not working Firefox (동기화가 이루어지지 않을경우)] 번역완료
 
 === 이경순 ===
  # [https://support.mozilla.com/ko/kb/Upgrading%20Firefox Upgrading Firefox (업그레이드 파이어폭스)] 번역완료
