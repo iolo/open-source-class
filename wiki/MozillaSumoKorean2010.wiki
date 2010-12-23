@@ -38,7 +38,7 @@
  # [https://support.mozilla.com/ko/kb/why-are-tabs-top tabs는 왜 위에 있는 이유] 번역 중
  # [https://support.mozilla.com/ko/kb/What%20is%20plugin-container plugin-container이란?] 번역중
  # [https://support.mozilla.com/ko/kb/how-do-i-add-bookmark bookmark하는 방법] 번역중
- # [https://support.mozilla.com/ko/kb/upgrade-firefox 파이어폭스는 어떻게 업그레이드 하나요?] 
+ # [https://support.mozilla.com/ko/kb/upgrade-firefox 파이어폭스는 어떻게 업그레이드 하나요?] 번역 중
 
 ===김세훈===
 
