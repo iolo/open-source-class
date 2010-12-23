@@ -39,6 +39,9 @@
  # [https://support.mozilla.com/ko/kb/What%20is%20plugin-container plugin-container이란?] 번역중
  # [https://support.mozilla.com/ko/kb/how-do-i-add-bookmark bookmark하는 방법] 번역중
  # [https://support.mozilla.com/ko/kb/upgrade-firefox 파이어폭스 업그레이드 방법] 번역 중
+ # [https://support.mozilla.com/en-US/kb/how-do-i-set-up-firefox-sync 어떻게 하면 파이어폭스 동기화를 설치할수 있나요? ] 번역 중
+ # [https://support.mozilla.com/en-US/kb/add-a-device-to-firefox-sync 어떻게 하면 파이어 폭스 동기화하는 장치를 추가할 수 있나요?] 번역 중
+
 
 ===김세훈===
 
