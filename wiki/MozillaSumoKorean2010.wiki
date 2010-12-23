@@ -126,6 +126,6 @@
  # [https://support.mozilla.com/en-US/kb/Using%20plugins%20with%20Firefox] 파이어폭스에서 플러그인 사용하기 - 번역완료
 
 === 바야르마그네 ===
- # [https://support.mozilla.com/en-US/kb/Firefox%20launches%20automatically%20when%20your%20computer%20starts (Firefox launches automatically when your computer starts)] - 번역중
- # [https://support.mozilla.com/en-US/kb/Error%20code%20500%20accessing%20secure%20sites (Error code 500 accessing secure sites)] - 번역중
- # [https://support.mozilla.com/en-US/kb/Username%20and%20password%20not%20remembered?redirectlocale=en-US&redirectslug=Cannot+use+or+save+passwords+after+upgrading+Firefox (Username and password not remembered)] - 번역중
+ # [https://support.mozilla.com/en-US/kb/Firefox%20launches%20automatically%20when%20your%20computer%20starts (Firefox launches automatically when your computer starts)] - 번역완료
+ # [https://support.mozilla.com/en-US/kb/Error%20code%20500%20accessing%20secure%20sites (Error code 500 accessing secure sites)] - 번역완료
+ # [https://support.mozilla.com/en-US/kb/Username%20and%20password%20not%20remembered?redirectlocale=en-US&redirectslug=Cannot+use+or+save+passwords+after+upgrading+Firefox (Username and password not remembered)] - 번역완료
