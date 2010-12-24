@@ -98,6 +98,8 @@
  # [https://support.mozilla.com/en-US/kb/site-credits Site Credits (사이트 크레딧)] 번역완료
  # [https://support.mozilla.com/en-US/kb/Replace%20your%20Sync%20information Replace your Sync information (동기화정보를 교체하는 방법)] 번역완료
  # [https://support.mozilla.com/en-US/kb/Firefox%20Sync%20is%20not%20working Firefox sync is not working Firefox (동기화가 이루어지지 않을경우)] 번역완료
+ # [https://support.mozilla.com/ko/kb/Toolbar%20keeps%20resetting/translate Toolbar keeps resetting (툴바의 설정을 유지하고 싶을 경우)] 번역완료
+
 
 === 이경순 ===
  # [https://support.mozilla.com/ko/kb/Upgrading%20Firefox Upgrading Firefox (업그레이드 파이어폭스)] 번역완료
