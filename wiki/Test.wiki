@@ -3,7 +3,7 @@
 = 제목1 =
 
 Add your content here.
-
+ * [http://channy.creation.net 차니의 블로그]
 
 == 제목2 ==
 
