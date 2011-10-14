@@ -2,7 +2,7 @@
 
 = 제목 1 =
 
-Add your content here.
+Add your content here. [OSSCJNU2007Practice]로 가보세요.
 
 
 == 제목 2 ==
