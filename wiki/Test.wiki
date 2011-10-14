@@ -23,4 +23,4 @@ Add your content here.  Format your content with:
 || 1910 || -15 || 30 ||
 || 1920 || -10 || 32 ||
 || 1930 || _N/A_ || _N/A_ ||
-|| 1940 || -2 || 40 ||
+|| 1940 || -2 ||
