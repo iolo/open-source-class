@@ -7,10 +7,13 @@ Add your content here.
 
 == 제목 2 ==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+{{{
+def fib(n):   
+  if n == 0 or n == 1:     
+  return n   
+  else:     # This recursion is not good for large numbers.     
+  return fib(n-1) + fib(n-2) 
+}}}
 
 숫자 목록
  # 숫자1
