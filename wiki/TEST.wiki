@@ -3,7 +3,7 @@
 = 제목 1 =
 
 Add your content here. [OSSCJNU2007Practice]로 가보세요.
-
+ * [http://channy.creation.net 차니의 블로그]
 
 == 제목 2 ==
 
