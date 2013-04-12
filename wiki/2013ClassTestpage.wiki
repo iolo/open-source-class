@@ -16,8 +16,8 @@ Test
  # http://www.jejunu.ac.kr
  # [http://www.jejunu.ac.kr 제주대학교]
 
-|| *Year* || *Temperature (low)* || *Temperature (high)* ||
-|| 1900 || -10 || 25 ||
+|| *Year* || *Temperature (low)* || *Temperature (high)* || *비고* ||
+|| 1900 || -10 || 25 || - ||
 || 1910 || -15 || 30 ||
 || 1920 || -10 || 32 ||
 || 1930 || _N/A_ || _N/A_ ||
